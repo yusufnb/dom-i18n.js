@@ -34,3 +34,6 @@ Usage:
 HelloWorld="Hello World {#} {#}"
 <span i18n="HelloWorld | aa | bb" />
 ```
+```
+HelloWorld="Hello World {#:date} {#:currency}
+```
